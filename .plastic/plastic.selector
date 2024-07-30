@@ -1,0 +1,4 @@
+repository "GreatDay@norple_scone@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
